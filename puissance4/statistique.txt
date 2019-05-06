@@ -1,0 +1,4 @@
+le joueur Programme de couleur Y a gagner 1 parties sur 1
+le joueur Programme de couleur G a gagner 0 parties sur 1
+le joueur ass de couleur B a gagner 1 parties sur 1
+le joueur sof de couleur N a gagner 0 parties sur 1
